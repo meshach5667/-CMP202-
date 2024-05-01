@@ -18,7 +18,7 @@ public class Student extends Userr{
      }
 
      else{
-        return "Input matric number and admission number";
+        return " FAILED!! Input matric number and admission number";
      }
 
      

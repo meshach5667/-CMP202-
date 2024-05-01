@@ -1,4 +1,4 @@
-public class LandAnimal extends Animal {
+public class tempCodeRunnerFile extends Animal {
 
     @Override
     String move() {
@@ -8,12 +8,13 @@ public class LandAnimal extends Animal {
  
     public static void main(String[] args) {
 
-        LandAnimal lion = new LandAnimal();
-        LandAnimal monkey = new LandAnimal();
+        tempCodeRunnerFile lion = new tempCodeRunnerFile();
+        tempCodeRunnerFile monkey = new tempCodeRunnerFile();
     
         monkey.move();
         lion.move();
         System.out.println(monkey.move());
-        // System.out.println();
+   
 
     }
+}
