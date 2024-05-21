@@ -28,7 +28,4 @@ public static void main(String[] args) {
 }
     // person.password = "12345678";
     
-}
 
-       
-    }
